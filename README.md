@@ -19,7 +19,8 @@ DEPENDENCE
 ==========
 
 * GSL (GNU Scientific Library)
-To install GSL, go to [here](http://www.gnu.org/software/gsl), downloard the source file, and follow the instruction in there.
+
+  To install GSL, go to [here](http://www.gnu.org/software/gsl), downloard the source file, and follow the instruction in there.
 
 
 Get Started
